@@ -1,0 +1,65 @@
+<div class="row">
+    <div class="card text-white bg-dark mb-3 column" *ngFor="let prod of HC;" style="max-width: 20rem;">
+        <ng-container *ngIf="prod.Category==selectedProduct;">
+        <div class="card-header">{{prod.Name}}</div>
+        <img class="card-img-top" src="{{prod.ImgUrl}}" alt="Product image">
+        <div class="card-body">
+          <!-- <p class="card-text">{{prod.Description}}</p> -->
+          <p class="card-text sale">{{prod.OldPrice}}</p>
+          <p class="card-text">Price:{{prod.Price}}₪ </p>
+          <!-- <button [routerLink]="['/product'],prod.id" class="btn btn-outline-primary">{{prod.id}}</button> -->
+          <button class="btn btn-outline-primary" [routerLink]="['/product',prod.id]">More info</button><br/>
+          <button (click)="addtoCart(prod) && sum(Price)" class="btn btn-outline-primary">add to cart</button>
+        </div>
+       </ng-container>
+      </div>
+</div>
+<!-- <br />
+  <td><a [routerLink]="['/employeeTable',emp.id]">{{emp.id}}</a></td>
+    <div>
+      <div class="form-group"> 
+      <label>SN </label>
+      <input [(ngModel)]="prod.SerialNumber" />
+      <label>Name </label>
+      <input [(ngModel)]="prod.Name" />
+      <label>Price </label>
+      <input [(ngModel)]="prod.Price" />
+      <label>old Price </label>
+      <input [(ngModel)]="prod.OldPrice" />
+      <label>Category </label>
+      <input [(ngModel)]="prod.Category" />
+      <label>Description </label>
+      <input [(ngModel)]="prod.Description" />
+      <label>img </label>
+      <input [(ngModel)]="prod.ImgUrl" />
+     </div>
+      <button class="btn btn-secondary" (click)="addProduct()">Add</button>
+      <button class="btn btn-secondary" (click)="updateProduct()">Update</button>
+      <button class="btn btn-secondary" (click)="deleteProduct()">Delete</button>
+    </div><br />
+    
+  <table class="table">
+    <thead>
+      <tr class="table-active">
+        <th>SN</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>old Price</th>
+        <th>Category</th>
+        <th>Description</th>
+        <th>img</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let product of HC">
+        <td>{{product.SerialNumber}}</td>
+        <td>{{product.id}}</td>
+        <td>{{product.Name}}</td>
+        <td>{{product.Price}}</td>
+        <td>{{product.OldPrice}}</td>
+        <td>{{product.Category}}</td>
+        <td>{{product.Description}}</td>
+        <td><img class="card-img-top" src="{{product.ImgUrl}}" alt="Product image"></td>
+      </tr>
+    </tbody>
+  </table> -->

@@ -1,0 +1,11 @@
+<app-navbar></app-navbar>
+<div id="card">
+<div class="column"></div>
+   
+    <app-sidebar></app-sidebar>
+    <div class="column" *ngIf="sidebar?.showproductComponent">
+        <br><br><br>
+    <app-showproduct [selectedProduct]="sidebar?.selectedProduct"></app-showproduct>
+    </div>
+</div>
+<app-footer></app-footer>

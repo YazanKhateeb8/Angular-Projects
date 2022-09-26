@@ -1,0 +1,30 @@
+<app-navbar></app-navbar>
+<h1>welcome {{username}}!</h1>
+
+<h3><u>Products on SALE10% :</u></h3>
+<div class="row" style="margin-left: auto;">
+  <div *ngFor="let prod of products2;" class="card text-white bg-dark mb-3 column" style="max-width: 20rem;">
+      <div class="card-header">{{prod.Name}}</div>
+      <img class="card-img-top" src="{{prod.ImgUrl}}" alt="Product image">
+      <div class="card-body">
+        <p class="card-text sale">{{prod.OldPrice}}₪</p>
+        <p class="card-text">Price:{{prod.Price}}₪ </p>       
+        <button (click)="Add2C(prod) && sum(Price)" class="btn btn-outline-primary">add to cart</button>
+      </div>
+    </div>
+</div>
+<br><br>
+<h3><u> Latest products :</u></h3>
+<div class="row" style="margin-left: auto;">
+    <div *ngFor="let prod of products1;" class="card text-white bg-dark mb-3 column" style="max-width: 20rem;">
+        <div class="card-header">{{prod.Name}}</div>
+        <img class="card-img-top" src="{{prod.ImgUrl}}" alt="Product image">
+        <div class="card-body">
+          <p class="card-text">{{prod.Description}}</p>
+          <p class="card-text">{{prod.Price}}₪</p>
+          <button (click)="Add2C(prod) && sum(Price)" class="btn btn-outline-primary">add to cart</button>
+        </div>
+      </div>
+</div>
+
+<app-footer></app-footer>

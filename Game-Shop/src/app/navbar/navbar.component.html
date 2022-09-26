@@ -1,0 +1,48 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="center">
+    <div class="collapse navbar-collapse" id="navbarColor02">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link active" routerLink="/home" routerLinkActive="style">Gaming NE</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/product" routerLinkActive="style">Products</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/cart" routerLinkActive="style">Cart</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/contacts" routerLinkActive="style">Contacts</a>
+        </li>
+        <li class="nav-item ct center2">
+
+      </li>
+      </ul>
+    </div>
+
+    </div>
+
+    <div class="center2 ">
+      <div class="collapse navbar-collapse" id="navbarColor02">
+        <ul class="navbar-nav me-auto">
+          <li class="loguot">
+          <button class="btn btn-secondary my-2 my-sm-0 ct2" routerLink="/login" type="submit">Log Out</button> &nbsp;&nbsp;
+        </li>
+        <div class="center ">
+        <li class="user" >
+          <button class="btn btn-secondary my-2 my-sm-0 ct" routerLink="/userinfo" type="submit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/768px-User_icon_2.svg.png"> {{username}} userinfo</button>
+        </li>
+      </div>
+          </ul>
+          <div>
+          </div>
+
+        </div>
+    </div>
+  </div>
+</nav>
+<router-outlet></router-outlet>

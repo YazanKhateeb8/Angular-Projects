@@ -1,0 +1,427 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "SerialNumber": "156",
+      "Name": "stove blomberg",
+      "Price": "1300",
+      "OldPrice": null,
+      "Category": "Kitchen",
+      "Description": "30 Induction Slide-In Range, Industry Leading Oven Capacity 5.7 cu.ft., Extra-Large Cooking Zone, Cool Touch Oven Door, Stainless",
+      "ImgUrl": "https://www.blombergappliances.com/media/catalog/product/cache/1/image/1200x/040ec09b1e35df139433887a97daa66f/b/g/bgrp34520ss_angle_right.jpg"
+    },
+    {
+      "id": 2,
+      "SerialNumber": "100",
+      "Name": "refrigerator sharp",
+      "Price": "8500",
+      "OldPrice": null,
+      "Category": "Kitchen",
+      "Description": "Energy Saving Door touch panel Ag+ Cu Nano Deodorizer ",
+      "ImgUrl": "https://www.zabilo.com/11145-thickbox_default/sharp-refrigerator-sj9711-661l-no-frost-5-doors-activrefresh.jpg"
+    },
+    {
+      "id": 3,
+      "SerialNumber": "743",
+      "Name": "UPPHETTA coffeemaker",
+      "Price": "405",
+      "OldPrice": "450",
+      "Category": "Kitchen",
+      "Description": "34 Ounce Capacity Makes 4 Generous Cups at a Time Dishwasher Safe and Disassembles for Easy Cleaning Fast and Easy for the Most Delicious Brew",
+      "ImgUrl": "https://i.imgur.com/tRpoZh0.jpg'"
+    },
+    {
+      "id": 4,
+      "SerialNumber": "555",
+      "Name": "OFTAST Plate",
+      "Price": "350",
+      "OldPrice": null,
+      "Category": "Kitchen",
+      "Description": "9 Inch Glass Plates Ikea Oftast (Set of 4)",
+      "ImgUrl": "https://i.imgur.com/ug3PRH0.jpg"
+    },
+    {
+      "id": 5,
+      "SerialNumber": "875648646",
+      "Name": "Ayla Granite Cookware",
+      "Price": "1260",
+      "OldPrice": "1400",
+      "Category": "Kitchen",
+      "Description": "4,00mm Forged Aluminum Pyrex Glass Lids (Pasabahce) Gold Titanium 18/10 Stainless Steel Handles and Knob 4 Layers Granite Coating. ",
+      "ImgUrl": "https://i.imgur.com/5cCG0uT.jpg"
+    },
+    {
+      "id": 6,
+      "SerialNumber": "1347765",
+      "Name": "Brady Upholstered Full Bed",
+      "Price": "800",
+      "OldPrice": null,
+      "Category": "Bedroom",
+      "Description": "Blending traditional style with modern materials, the Brady upholstered bed brings comfortable elegance to your bedroom.",
+      "ImgUrl": "https://i.imgur.com/o6EFZNo.jpg"
+    },
+    {
+      "id": 7,
+      "SerialNumber": " 1999075",
+      "Name": " MAGINELS Portable Wardrobe",
+      "Price": " 600",
+      "OldPrice": null,
+      "Category": "Bedroom",
+      "Description": " Each cube can support more than 22 lbs. Great storage space to store clothes, bags, accessories, shoes and many other things you want!",
+      "ImgUrl": "https://i.imgur.com/jjzHDHl.jpg"
+    },
+    {
+      "id": 8,
+      "SerialNumber": " 8765430",
+      "Name": "Sorbus Dresser",
+      "Price": " 315",
+      "OldPrice": "350",
+      "Category": "Bedroom",
+      "Description": "Style meets function with our dresser chest, complete with a wood surface and storage drawers Pairs beautifully with the Sorbus Foldable Furniture Collection",
+      "ImgUrl": "https://i.imgur.com/yrJzAlk.jpg"
+    },
+    {
+      "id": 9,
+      "SerialNumber": " 8765431",
+      "Name": "Utopia Bedding Gusseted Pillow",
+      "Price": " 72",
+      "OldPrice": "80",
+      "Category": "Bedroom",
+      "Description": "Pack of 2 white pillows with a grey piping and double stitching gives these pillows a stylish look as well as proves to be long lasting",
+      "ImgUrl": "https://i.imgur.com/YQMQB0s.jpg"
+    },
+    {
+      "id": 10,
+      "SerialNumber": " 144435",
+      "Name": "HOKEKI Bedside Table Lamp",
+      "Price": " 60",
+      "OldPrice": null,
+      "Category": "Bedroom",
+      "Description": "This modern table lamp is made of beige shaded fabric lampshade and high-quality black metal base.",
+      "ImgUrl": "https://i.imgur.com/M5yfipF.jpg"
+    },
+    {
+      "id": 11,
+      "SerialNumber": " 0076543",
+      "Name": "StonePlus Marble Soap Dish",
+      "Price": " 51",
+      "OldPrice": "57",
+      "Category": "Bathroom",
+      "Description": "Frame your favourite bar of soap in elegant marble with this luxurious bathroom accessory. Raised sides keep even the most slippery of soaps securely in place.",
+      "ImgUrl": "https://i.imgur.com/h9OjoQ8.jpg"
+    },
+    {
+      "id": 12,
+      "SerialNumber": " 647487387",
+      "Name": "AOJIA bathroom storage",
+      "Price": " 90",
+      "OldPrice": null,
+      "Category": "Bathroom",
+      "Description": "The Rolling storage utility cart is 8.66 in, designed for space saving and easy transport. The black storage trolley is stylish.",
+      "ImgUrl": "https://i.imgur.com/BsJRRrR.jpg"
+    },
+    {
+      "id": 13,
+      "SerialNumber": " 74747",
+      "Name": "WOODBRIDGE T-0022 Toilet",
+      "Price": "800",
+      "OldPrice": null,
+      "Category": "Bathroom",
+      "Description": "Sleek, low profile skirted elongated toilet, comfort height, water sense, high-efficiency Advanced bidet seat- smart toilet seat with temperature controlled wash functions.",
+      "ImgUrl": "https://i.imgur.com/kuWOtid.jpg"
+    },
+    {
+      "id": 14,
+      "SerialNumber": " 8484848",
+      "Name": "WAGNER odor diffuser",
+      "Price": "700",
+      "OldPrice": null,
+      "Category": "Bathroom",
+      "Description": "This air filtration system contains a pre-filter, HEPA-13 filter.",
+      "ImgUrl": "https://i.imgur.com/HOu7zPA.jpg"
+    },
+    {
+      "id": 15,
+      "SerialNumber": " 777643",
+      "Name": "Welhome Hudson Bath Towel",
+      "Price": "170",
+      "OldPrice": null,
+      "Category": "Bathroom",
+      "Description": "100% Organic Cotton that is produced and certified to organic agricultural standards. Its production sustains the health of soils.",
+      "ImgUrl": "https://i.imgur.com/qjEloJk.jpg"
+    }
+  ],
+  "OnSale": [
+    {
+      "id": 1,
+      "SerialNumber": "743",
+      "Name": "UPPHETTA coffeemaker",
+      "Price": "405",
+      "OldPrice": "450",
+      "Category": "Kitchen",
+      "Description": "34 Ounce Capacity Makes 4 Generous Cups at a Time Dishwasher Safe and Disassembles for Easy Cleaning Fast and Easy for the Most Delicious Brew",
+      "ImgUrl": "https://i.imgur.com/tRpoZh0.jpg"
+    },
+    {
+      "id": 2,
+      "SerialNumber": "875648646",
+      "Name": "Ayla Granite Cookware",
+      "Price": "1260",
+      "OldPrice": "1400",
+      "Category": "Kitchen",
+      "Description": "4,00mm Forged Aluminum Pyrex Glass Lids (Pasabahce) Gold Titanium 18/10 Stainless Steel Handles and Knob 4 Layers Granite Coating. ",
+      "ImgUrl": "https://i.imgur.com/5cCG0uT.jpg"
+    },
+    {
+      "id": 3,
+      "SerialNumber": " 8765430",
+      "Name": "Sorbus Dresser",
+      "Price": " 315",
+      "OldPrice": "350",
+      "Category": "Bedroom",
+      "Description": "Style meets function with our dresser chest, complete with a wood surface and storage drawers Pairs beautifully with the Sorbus Foldable Furniture Collection",
+      "ImgUrl": "https://i.imgur.com/yrJzAlk.jpg"
+    },
+    {
+      "id": 4,
+      "SerialNumber": " 8765431",
+      "Name": "Utopia Bedding Gusseted Pillow",
+      "Price": " 72",
+      "OldPrice": "80",
+      "Category": "Bedroom",
+      "Description": "Pack of 2 white pillows with a grey piping and double stitching gives these pillows a stylish look as well as proves to be long lasting",
+      "ImgUrl": "https://i.imgur.com/YQMQB0s.jpg"
+    },
+    {
+      "id": 5,
+      "SerialNumber": " 0076543",
+      "Name": "StonePlus Marble Soap Dish",
+      "Price": " 51",
+      "OldPrice": "57",
+      "Category": "Bathroom",
+      "Description": "Frame your favourite bar of soap in elegant marble with this luxurious bathroom accessory. Raised sides keep even the most slippery of soaps securely in place.",
+      "ImgUrl": "https://i.imgur.com/h9OjoQ8.jpg"
+    }
+  ],
+  "Latest": [
+    {
+      "id": 1,
+      "SerialNumber": " 777643",
+      "Name": "Welhome Hudson Bath Towel",
+      "Price": "170",
+      "OldPrice": null,
+      "Category": "Bathroom",
+      "Description": "100% Organic Cotton that is produced and certified to organic agricultural standards. Its production sustains the health of soils.",
+      "ImgUrl": "https://i.imgur.com/qjEloJk.jpg"
+    },
+    {
+      "id": 2,
+      "SerialNumber": " 74747",
+      "Name": "WOODBRIDGE T-0022 Toilet",
+      "Price": "800",
+      "OldPrice": null,
+      "Category": "Bathroom",
+      "Description": "Sleek, low profile skirted elongated toilet, comfort height, water sense, high-efficiency Advanced bidet seat- smart toilet seat with temperature controlled wash functions.",
+      "ImgUrl": "https://i.imgur.com/kuWOtid.jpg"
+    },
+    {
+      "id": 3,
+      "SerialNumber": " 144435",
+      "Name": "HOKEKI Bedside Table Lamp",
+      "Price": " 60",
+      "OldPrice": null,
+      "Category": "Bedroom",
+      "Description": "This modern table lamp is made of beige shaded fabric lampshade and high-quality black metal base.",
+      "ImgUrl": "https://i.imgur.com/M5yfipF.jpg"
+    },
+    {
+      "id": 4,
+      "SerialNumber": "1347765",
+      "Name": "Brady Upholstered Full Bed",
+      "Price": "800",
+      "OldPrice": null,
+      "Category": "Bedroom",
+      "Description": "Blending traditional style with modern materials, the Brady upholstered bed brings comfortable elegance to your bedroom.",
+      "ImgUrl": "https://i.imgur.com/o6EFZNo.jpg"
+    },
+    {
+      "id": 5,
+      "SerialNumber": "100",
+      "Name": "refrigerator sharp",
+      "Price": "8500",
+      "OldPrice": null,
+      "Category": "Kitchen",
+      "Description": "Energy Saving Door touch panel Ag+ Cu Nano Deodorizer ",
+      "ImgUrl": "https://www.zabilo.com/11145-thickbox_default/sharp-refrigerator-sj9711-661l-no-frost-5-doors-activrefresh.jpg"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "name": "Moad",
+      "fullname": "Moad Irshed",
+      "email": "moad@gmail.com",
+      "mobile": "0522270928",
+      "password": "12345678",
+      "address": "Nazareth-Israel",
+      "img": "https://i.imgur.com/gC9GnxD.png"
+    },
+    {
+      "id": 2,
+      "name": "micki",
+      "fullname": "michael ballot",
+      "email": "micki@gmail.com",
+      "mobile": "0529846549",
+      "password": "12345678",
+      "address": "Fasouta Israel",
+      "img": "https://i.imgur.com/GleAY3f.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Ace",
+      "fullname": "Sliem gha.",
+      "email": "ACE@gmail.com",
+      "mobile": "05321897416",
+      "password": "12345678",
+      "address": "Der hana",
+      "img": "https://i.pinimg.com/474x/31/95/d5/3195d560afa73b5c49895b350101403e.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Yazan",
+      "fullname": "Yazan Khateb",
+      "email": "yazan@gmail.com",
+      "mobile": "052684612",
+      "password": "12345678",
+      "address": "kawkab",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnEarLS8M2YDyo_AqmfUjvg2-Cxl5mIP-mg&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Miki",
+      "fullname": "Mikixx",
+      "email": "miki2@gmail.com",
+      "mobile": "2312321093019",
+      "password": "mikixx123",
+      "address": "fas",
+      "img": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Clipart.png"
+    },
+    {
+      "id": 6,
+      "name": "bobbobob",
+      "fullname": "bobobbobo",
+      "email": "bobo@gmail.com",
+      "mobile": "0561634981",
+      "password": "12345678",
+      "address": "bonk",
+      "img": "https://www.pngall.com/wp-content/uploads/5/Profile-PNG-Clipart.png"
+    }
+  ],
+  "cart": [
+    {
+      "quantity": 1,
+      "user": "Yazan",
+      "product": {
+        "id": 6,
+        "SerialNumber": "1347765",
+        "Name": "Brady Upholstered Full Bed",
+        "Price": "800",
+        "OldPrice": null,
+        "Category": "Bedroom",
+        "Description": "Blending traditional style with modern materials, the Brady upholstered bed brings comfortable elegance to your bedroom.",
+        "ImgUrl": "https://i.imgur.com/o6EFZNo.jpg"
+      },
+      "id": 6
+    },
+    {
+      "quantity": 1,
+      "user": "Yazan",
+      "product": {
+        "id": 7,
+        "SerialNumber": " 1999075",
+        "Name": " MAGINELS Portable Wardrobe",
+        "Price": " 600",
+        "OldPrice": null,
+        "Category": "Bedroom",
+        "Description": " Each cube can support more than 22 lbs. Great storage space to store clothes, bags, accessories, shoes and many other things you want!",
+        "ImgUrl": "https://i.imgur.com/jjzHDHl.jpg"
+      },
+      "id": 7
+    },
+    {
+      "quantity": 1,
+      "user": "micki",
+      "product": {
+        "id": 1,
+        "SerialNumber": "156",
+        "Name": "stove blomberg",
+        "Price": "1300",
+        "OldPrice": null,
+        "Category": "Kitchen",
+        "Description": "30 Induction Slide-In Range, Industry Leading Oven Capacity 5.7 cu.ft., Extra-Large Cooking Zone, Cool Touch Oven Door, Stainless",
+        "ImgUrl": "https://www.blombergappliances.com/media/catalog/product/cache/1/image/1200x/040ec09b1e35df139433887a97daa66f/b/g/bgrp34520ss_angle_right.jpg"
+      },
+      "id": 8
+    },
+    {
+      "quantity": 1,
+      "user": "micki",
+      "product": {
+        "id": 2,
+        "SerialNumber": "100",
+        "Name": "refrigerator sharp",
+        "Price": "8500",
+        "OldPrice": null,
+        "Category": "Kitchen",
+        "Description": "Energy Saving Door touch panel Ag+ Cu Nano Deodorizer ",
+        "ImgUrl": "https://www.zabilo.com/11145-thickbox_default/sharp-refrigerator-sj9711-661l-no-frost-5-doors-activrefresh.jpg"
+      },
+      "id": 9
+    },
+    {
+      "quantity": 1,
+      "user": "Moad",
+      "product": {
+        "id": 1,
+        "SerialNumber": "156",
+        "Name": "stove blomberg",
+        "Price": "1300",
+        "OldPrice": null,
+        "Category": "Kitchen",
+        "Description": "30 Induction Slide-In Range, Industry Leading Oven Capacity 5.7 cu.ft., Extra-Large Cooking Zone, Cool Touch Oven Door, Stainless",
+        "ImgUrl": "https://www.blombergappliances.com/media/catalog/product/cache/1/image/1200x/040ec09b1e35df139433887a97daa66f/b/g/bgrp34520ss_angle_right.jpg"
+      },
+      "id": 10
+    },
+    {
+      "quantity": 1,
+      "user": "Moad",
+      "product": {
+        "id": 2,
+        "SerialNumber": "100",
+        "Name": "refrigerator sharp",
+        "Price": "8500",
+        "OldPrice": null,
+        "Category": "Kitchen",
+        "Description": "Energy Saving Door touch panel Ag+ Cu Nano Deodorizer ",
+        "ImgUrl": "https://www.zabilo.com/11145-thickbox_default/sharp-refrigerator-sj9711-661l-no-frost-5-doors-activrefresh.jpg"
+      },
+      "id": 11
+    },
+    {
+      "quantity": 1,
+      "user": "bobbobob",
+      "product": {
+        "id": 2,
+        "SerialNumber": "100",
+        "Name": "refrigerator sharp",
+        "Price": "8500",
+        "OldPrice": null,
+        "Category": "Kitchen",
+        "Description": "Energy Saving Door touch panel Ag+ Cu Nano Deodorizer ",
+        "ImgUrl": "https://www.zabilo.com/11145-thickbox_default/sharp-refrigerator-sj9711-661l-no-frost-5-doors-activrefresh.jpg"
+      },
+      "id": 13
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+img{
+    width: 200px;
+    height: 120px;
+}
+.sale{
+    color: red;
+    text-decoration: line-through;
+    }
+div{
+    text-align: center;
+}    
+.card{
+    margin-left: 5px;
+}
+.card:hover{
+    box-shadow: 8px 8px 8px black;
+    transform: translatey(-10px);
+}

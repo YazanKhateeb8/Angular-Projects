@@ -1,0 +1,41 @@
+.center2 {
+ height: 50px;
+  left:90%;
+ position: absolute;
+  
+
+  }
+  .center {
+    position: relative;
+    text-align: center;
+    size:50;
+  }
+
+.style{
+  font-weight: bold;
+}
+img{
+  width: 50px;
+
+}
+
+.ct{
+  height: 50px;
+width: 140px;
+position:fixed;
+font-size: 15px;
+}
+
+
+.ct img{
+
+  height: 40px;
+  width: 50px;
+
+}
+
+.left1{
+  position: absolute;
+  left:200%;
+}
+

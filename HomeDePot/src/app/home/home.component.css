@@ -1,0 +1,21 @@
+.card{
+    margin-left: 5px;
+}
+.card:hover{
+    box-shadow: 8px 8px 8px black;
+    transform: translatey(-10px);
+}
+img{
+    width: 250px;
+    height: 150px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    margin-left: 30px;
+}
+.sale{
+color: red;
+text-decoration: line-through;
+}
